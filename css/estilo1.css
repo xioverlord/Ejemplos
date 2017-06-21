@@ -1,0 +1,23 @@
+#especial{
+	color: #90caf9;
+	border-color: #f50057;
+	border-style: all;
+	border-width: 2px;
+}
+#hola{
+	color: #26c6da;
+	background-color: blue; 
+}
+h1{
+	color:#00ff00 ;
+}
+#charlieesgay{
+	color: #f50057;
+}
+body{
+	
+	background: url(imagenescss/azul.jpg );
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
